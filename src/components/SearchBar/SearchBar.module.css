@@ -1,0 +1,16 @@
+
+.input {
+    padding: 5px 10px;
+    width: 300px;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.header {
+    margin: 0 auto;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    background-color:rgb(40, 67, 91);
+    padding: 5px 0;
+}
